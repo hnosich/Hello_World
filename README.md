@@ -3,13 +3,13 @@ BAIS:3050 BAIS Professional Preparation
 
 Made a few changes to the file for a trial run
 
-# Project Title
+# Title
 
-** Henry Nosich Trial Run ** 
+**Henry Nosich Trial Run** 
 
-# Description
+# What the project is
 
-* Italicized description *
+*Trial Run*
 
 # How to Run a Program
 1. Click on my profile
@@ -25,5 +25,5 @@ Made a few changes to the file for a trial run
 # Additional Documentation
  none
 
-# Versioning
-none
+# Date made
+2/10/2021
