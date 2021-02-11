@@ -5,14 +5,14 @@ Made a few changes to the file for a trial run
 
 # Project Title
 
-## Description
+# Description
 
-### How to Run a Program
+# How to Run a Program
 
-#### Files Used
-
-
-##### Additional Documentation
+# Files Used
 
 
-###### Versioning
+# Additional Documentation
+
+
+# Versioning
